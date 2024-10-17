@@ -1,5 +1,5 @@
-let user : [name:string , age:number];
-user = ['erfan yousefi' , 25]
+let user3 : [name:string , age:number];
+user3 = ['erfan yousefi' , 25]
 let position : [lat:number , long:number] = [52.545664 , -6.15456];
 let [lat , long] = position;
 position.push(56+564)
