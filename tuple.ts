@@ -15,6 +15,12 @@ book = [
     54
 ]
 
-const [naam , nevisnadeh , safehat] = book
+
 
 let userScore: [username:string , ...scores:[first:number , second : number , third: number] ]
+
+let myScore: [name:string , ...nums:number[]]
+
+userScore=[ "amincxo" , 10,20,30]
+
+myScore = ["name " ,10,20,30,40,50,60,40,50,20,250,50,250,20,20 ]
